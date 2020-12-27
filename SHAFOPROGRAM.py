@@ -47,12 +47,12 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
-           ▄︻┻═┳一 ♥️SHAFO_PROGRAM♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ SHAFO_PROGRAM  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪SHAFO_PROGRAM💪💪   🔴🔴
-           ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
-	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
+logo = """ ▄︻┻═┳一 ┼SHAFO_PROGRAM┼
+           ▄︻┻═┳一 ♥️SHAFO_PROGRAM♥️----------
+           ▄︻┻═┳一 ♥️♥️ SHAFO_PROGRAM  ♥️♥️----
+           ▄︻┻═┳一    💪💪SHAFO_PROGRAM💪💪   
+           ▄︻┻═┳一 ---- SHAFO_PROGRAM  --------
+	          
   
                                                  
                snapchat: br35308
@@ -66,15 +66,14 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
 
-        ђ๏Pє Y๏Ц MąY Gє┼ ๏Ц┼ЙЦMßєrєđ ącc๏ЦЙ┼ş 
-       P๏şşIßLY şYЙcђr๏ЙI乙єđ ßY ┼ђIş GI┼ђЦß . 
-          ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
-      ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
+        ┼SHAFO_PROGRAM ┼
+        
+          ♥️♥️♥️ SHAFO_PROGRAM ♥️♥️♥️
+      ♥️♥️ SHAFO_PROGRAM  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92
-\033[1;96mInstagram \033[1;93m: \033[1: sha_fo_ka
-\033[1;96mFacebook  \033[1;93m: \033[1: 
-\033[1;96mGithub \033[1;93m: \
+
+\033[1;96mInstagram \033[1;93m: \033[1:sha_fo_ka
+
 \033[1;91m======================================="""
 
 def tik():
@@ -114,15 +113,13 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    snap : br35308
-\033[1;96mAuthor  \033[1;93m: \033[1;92
 \033[1;96mInstagram \033[1;93m: \033[1;92sha_fo_ka
-\033[1;96mFacebook  \033[1;93m: \033[1;92m 
-\033[1;96mGithub \033[1;93m: \
+\033[1
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "SHAFO"
-CorrectPassword = "PROGRAM"
+Nawbnusa = "SHAFO"
+pasworbnusa = "PROGRAM"
 
 loop = 'true'
 while (loop == 'true'):

@@ -66,7 +66,7 @@ logo = """ ▄︻┻═┳一 ┼SHAFO_PROGRAM┼
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
 
-        ┼SHAFO_PROGRAM ┼
+        SHAFO_PROGRAM 
         
           ♥️♥️♥️ SHAFO_PROGRAM ♥️♥️♥️
       ♥️♥️ SHAFO_PROGRAM  ♥️♥️

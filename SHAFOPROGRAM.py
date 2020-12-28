@@ -131,7 +131,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open  Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
+            os.system('xdg-open  https://www.snapchat.com/add/br35308')
     else:
         print "Wrong Username"
         os.system('xdg-open   Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
